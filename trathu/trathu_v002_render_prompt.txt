@@ -1,0 +1,39 @@
+**POSITIVE PROMPT (V1 - Baseline):**
+
+```
+High-angle overhead shot at 45 degrees, photorealistic documentary evidence photography, Netflix thriller aesthetic. Manila folder open on white tablecloth surface, receipts and printed screenshots fanned out in organized chaos arrangement, hotel receipt prominent in center with date circled in bold red ink #A8201A, phone screen showing text message thread visible among papers. Female hand entering frame from right with gold wedding ring visible, holding red pen mid-circle over receipt date. Wine glass stem slightly out of focus in top right corner. White tablecloth with soft fabric folds, dimly lit restaurant ambient glow from edges. Focused overhead lighting on documents (cool white 5000K), warm amber glow (2700K) from edges. Shallow depth of field, 70% background blur. Color palette: deep navy edges #0A0E1A, off-white papers #F4F1EC, crimson red accent #A8201A, muted gold manila folder #B8965A. High contrast, clinical precision meets intimate confrontation mood. 16:9 aspect ratio, 1280x720, high detail level. Red-circled hotel receipt date is primary focal point. Methodical vindication atmosphere.
+```
+
+**NEGATIVE PROMPT:**
+
+```
+blurry, low contrast, watermark, extra fingers, text artifacts, duplicate faces, distorted anatomy, messy handwriting, pixelated text on documents, unrealistic shadows, oversaturated colors, cartoon style, anime, 3D render, bright lighting, happy mood, pastel colors, neon, cluttered composition, multiple hands, deformed ring, floating objects, lens flare, vignette, Instagram filter
+```
+
+---
+
+**POSITIVE PROMPT (V2 - Focal weight increase):**
+
+```
+High-angle overhead shot at 45 degrees, photorealistic documentary evidence photography, Netflix thriller aesthetic. Manila folder open on white tablecloth surface, receipts and printed screenshots fanned out in organized chaos arrangement, hotel receipt prominent in center with date circled in BOLD LARGE red ink circle #A8201A (1.4x size emphasis), phone screen showing text message thread visible among papers. Female hand entering frame from right with PROMINENT gold wedding ring (1.3x emphasis), holding red pen mid-circle over receipt date, hand more visible in frame. Wine glass stem slightly out of focus in top right corner. White tablecloth with soft fabric folds, dimly lit restaurant ambient glow from edges. Focused overhead lighting on documents (cool white 5000K), warm amber glow (2700K) from edges. Shallow depth of field, 70% background blur. Color palette: deep navy edges #0A0E1A, off-white papers #F4F1EC, crimson red accent #A8201A, muted gold manila folder #B8965A. High contrast, clinical precision meets intimate confrontation mood. 16:9 aspect ratio, 1280x720, high detail level. Red-circled hotel receipt date and wedding ring are dual focal points. Methodical vindication atmosphere.
+```
+
+**NEGATIVE PROMPT:**
+
+```
+blurry, low contrast, watermark, extra fingers, text artifacts, duplicate faces, distorted anatomy, messy handwriting, pixelated text on documents, unrealistic shadows, oversaturated colors, cartoon style, anime, 3D render, bright lighting, happy mood, pastel colors, neon, cluttered composition, multiple hands, deformed ring, floating objects, lens flare, vignette, Instagram filter
+```
+
+---
+
+**POSITIVE PROMPT (V3 - Background weight decrease):**
+
+```
+High-angle overhead shot at 45 degrees, photorealistic documentary evidence photography, Netflix thriller aesthetic. Manila folder open on white tablecloth surface, receipts and printed screenshots fanned out in organized chaos arrangement, hotel receipt prominent in center with date circled in bold red ink #A8201A, phone screen showing text message thread visible among papers. Female hand entering frame from right with gold wedding ring visible, holding red pen mid-circle over receipt date. NO wine glass. White tablecloth with soft fabric folds, DARKER ambient glow from edges (reduced warm light). Focused overhead lighting on documents (cool white 5000K), minimal edge lighting. DEEP depth of field blur, 85% background blur, darker edges transitioning to deep navy #0A0E1A. Color palette: dominant deep navy edges #0A0E1A, off-white papers #F4F1EC, crimson red accent #A8201A, muted gold manila folder #B8965A. VERY high contrast, clinical precision meets intimate confrontation mood. 16:9 aspect ratio, 1280x720, high detail level. Red-circled hotel receipt date is isolated primary focal point. Methodical vindication atmosphere, more ominous.
+```
+
+**NEGATIVE PROMPT:**
+
+```
+blurry, low contrast, watermark, extra fingers, text artifacts, duplicate faces, distorted anatomy, messy handwriting, pixelated text on documents, unrealistic shadows, oversaturated colors, cartoon style, anime, 3D render, bright lighting, happy mood, pastel colors, neon, cluttered composition, multiple hands, deformed ring, floating objects, lens flare, vignette, Instagram filter, wine glass, bright edges, warm ambient light
+```
