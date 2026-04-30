@@ -1,39 +1,42 @@
 **POSITIVE PROMPT (V1 - Baseline):**
 
-```
-High-angle overhead shot at 45 degrees, photorealistic documentary evidence photography, Netflix thriller aesthetic. Manila folder open on white tablecloth surface, receipts and printed screenshots fanned out in organized chaos arrangement, hotel receipt prominent in center with date circled in bold red ink #A8201A, phone screen showing text message thread visible among papers. Female hand entering frame from right with gold wedding ring visible, holding red pen mid-circle over receipt date. Wine glass stem slightly out of focus in top right corner. White tablecloth with soft fabric folds, dimly lit restaurant ambient glow from edges. Focused overhead lighting on documents (cool white 5000K), warm amber glow (2700K) from edges. Shallow depth of field, 70% background blur. Color palette: deep navy edges #0A0E1A, off-white papers #F4F1EC, crimson red accent #A8201A, muted gold manila folder #B8965A. High contrast, clinical precision meets intimate confrontation mood. 16:9 aspect ratio, 1280x720, high detail level. Red-circled hotel receipt date is primary focal point. Methodical vindication atmosphere.
-```
+Cinematic photorealistic thumbnail, 16:9 aspect ratio, 1280x720 resolution. Primary subject: legal-size manila folder with divorce papers, folder color manila tan #D4A574, crimson red tab #A8201A prominent on right edge, folder slightly open at 15-degree angle revealing stack of crisp white papers #F4F1EC with visible legal document header text, papers organized with clinical precision showing professional preparation, folder positioned center lower two-thirds of frame occupying 45% of composition. Gold wedding ring band deliberately placed on top right corner of folder as symbolic punctuation. Secondary subject: 36-year-old female protagonist, shoulder-length dark brown hair #2C1810, steady controlled gaze with slight jaw tension, quiet danger expression, neutral charcoal sweater, positioned upper right third of frame, partial face view occupying 25% of frame, supporting role. Blurred wine glass stem with soft bokeh in left edge background, decorative element. Background: intimate restaurant booth or upscale dining setting, deep navy to black gradient #0A0E1A, soft ambient bokeh from background lighting suggesting evening atmosphere, minimal complexity, shallow depth of field with 75% blur amount. Lighting: soft directional from upper left creating gentle shadow on right side of folder, subtle top-down accent, cool neutral 4500K on documents with slight warm 3200K glow from background bokeh, controlled intimate-dangerous mood, documentary-style evidence reveal aesthetic. Composition: rule of thirds, slight high angle looking down at folder, visual hierarchy prioritizes crimson folder tab first, then papers, then wedding ring, then female face. Color palette: primary deep navy #0A0E1A, secondary off-white #F4F1EC, accent crimson red #A8201A, high contrast level. Mood: quiet danger meets documentary evidence reveal, clinical precision wrapped in intimate threat, Netflix thriller key art aesthetic, the folder is a weapon, the ring is a verdict, the face confirms she already won. Photorealistic detail on paper edges, folder texture, ring metal, skin tone, hair strands. Mobile-first readability optimized for 320x180 thumbnail size.
 
 **NEGATIVE PROMPT:**
 
-```
-blurry, low contrast, watermark, extra fingers, text artifacts, duplicate faces, distorted anatomy, messy handwriting, pixelated text on documents, unrealistic shadows, oversaturated colors, cartoon style, anime, 3D render, bright lighting, happy mood, pastel colors, neon, cluttered composition, multiple hands, deformed ring, floating objects, lens flare, vignette, Instagram filter
-```
+blurry, low contrast, watermark, extra fingers, text artifacts, duplicate faces, distorted anatomy, bright lighting, cheerful atmosphere, sunny, vibrant colors, cluttered background, multiple folders, messy papers, disorganized documents, cartoon style, anime, 3D render, oversaturated, neon colors, happy expression, smiling, laughing, casual setting, daylight, outdoor, multiple people, crowd, busy composition, text overlay burned into image, AI watermark, stock photo aesthetic, generic office, fluorescent lighting, flat lighting, overexposed, underexposed, noise, grain, compression artifacts, duplicate objects, extra limbs, malformed hands, poorly drawn face, mutation, deformed, ugly, bad anatomy, bad proportions, extra heads, cloned face, disfigured, gross proportions, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, long neck
 
 ---
 
-**POSITIVE PROMPT (V2 - Focal weight increase):**
+**VARIANT 2 (Focal weight increase):**
 
-```
-High-angle overhead shot at 45 degrees, photorealistic documentary evidence photography, Netflix thriller aesthetic. Manila folder open on white tablecloth surface, receipts and printed screenshots fanned out in organized chaos arrangement, hotel receipt prominent in center with date circled in BOLD LARGE red ink circle #A8201A (1.4x size emphasis), phone screen showing text message thread visible among papers. Female hand entering frame from right with PROMINENT gold wedding ring (1.3x emphasis), holding red pen mid-circle over receipt date, hand more visible in frame. Wine glass stem slightly out of focus in top right corner. White tablecloth with soft fabric folds, dimly lit restaurant ambient glow from edges. Focused overhead lighting on documents (cool white 5000K), warm amber glow (2700K) from edges. Shallow depth of field, 70% background blur. Color palette: deep navy edges #0A0E1A, off-white papers #F4F1EC, crimson red accent #A8201A, muted gold manila folder #B8965A. High contrast, clinical precision meets intimate confrontation mood. 16:9 aspect ratio, 1280x720, high detail level. Red-circled hotel receipt date and wedding ring are dual focal points. Methodical vindication atmosphere.
-```
+[Same positive prompt with these changes:]
+- "folder positioned center lower two-thirds of frame occupying 55% of composition"
+- "partial face view occupying 20% of frame"
+- "sharper focus on crimson tab with enhanced detail"
+- "background gradient slightly darker, deeper navy approaching pure black #000000"
+- "depth of field 80% blur amount"
 
-**NEGATIVE PROMPT:**
-
-```
-blurry, low contrast, watermark, extra fingers, text artifacts, duplicate faces, distorted anatomy, messy handwriting, pixelated text on documents, unrealistic shadows, oversaturated colors, cartoon style, anime, 3D render, bright lighting, happy mood, pastel colors, neon, cluttered composition, multiple hands, deformed ring, floating objects, lens flare, vignette, Instagram filter
-```
+[Same negative prompt]
 
 ---
 
-**POSITIVE PROMPT (V3 - Background weight decrease):**
+**VARIANT 3 (Background weight decrease):**
 
-```
-High-angle overhead shot at 45 degrees, photorealistic documentary evidence photography, Netflix thriller aesthetic. Manila folder open on white tablecloth surface, receipts and printed screenshots fanned out in organized chaos arrangement, hotel receipt prominent in center with date circled in bold red ink #A8201A, phone screen showing text message thread visible among papers. Female hand entering frame from right with gold wedding ring visible, holding red pen mid-circle over receipt date. NO wine glass. White tablecloth with soft fabric folds, DARKER ambient glow from edges (reduced warm light). Focused overhead lighting on documents (cool white 5000K), minimal edge lighting. DEEP depth of field blur, 85% background blur, darker edges transitioning to deep navy #0A0E1A. Color palette: dominant deep navy edges #0A0E1A, off-white papers #F4F1EC, crimson red accent #A8201A, muted gold manila folder #B8965A. VERY high contrast, clinical precision meets intimate confrontation mood. 16:9 aspect ratio, 1280x720, high detail level. Red-circled hotel receipt date is isolated primary focal point. Methodical vindication atmosphere, more ominous.
-```
+[Same positive prompt with these changes:]
+- "folder positioned center lower two-thirds of frame occupying 45% of composition"
+- "partial face view occupying 30% of frame, slightly more prominent"
+- "background: pure deep navy to black gradient #0A0E1A to #000000, no wine glass, no decorative elements, 85% blur amount"
+- "minimal background complexity, focus entirely on subject and face"
 
-**NEGATIVE PROMPT:**
+[Same negative prompt]
 
-```
-blurry, low contrast, watermark, extra fingers, text artifacts, duplicate faces, distorted anatomy, messy handwriting, pixelated text on documents, unrealistic shadows, oversaturated colors, cartoon style, anime, 3D render, bright lighting, happy mood, pastel colors, neon, cluttered composition, multiple hands, deformed ring, floating objects, lens flare, vignette, Instagram filter, wine glass, bright edges, warm ambient light
-```
+---
+
+**RENDER SETTINGS RECOMMENDATION:**
+
+- Sampler: High-quality photorealistic mode
+- Steps: 40-50 for document detail
+- CFG Scale: 7-8 for prompt adherence
+- Seed: Random (or save seed if V1 is strong for iteration)
+- Iterate count: 3-5 per variant to find best composition
