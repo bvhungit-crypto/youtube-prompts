@@ -1,0 +1,39 @@
+**POSITIVE PROMPT (Baseline V1):**
+
+Minimalist 2D chalkboard animation style, 16:9 aspect ratio. Hand-drawn white chalk portrait on dark chalkboard green background (#2E3D34). Woman's face positioned in upper left third of frame, drawn in white chalk (#F5F5F0) with rough sketch lines and authentic chalk texture. Eyes are the most detailed feature — drawn larger and well-defined with steady, direct gaze at viewer showing quiet resolve. Slight pursed lips drawn as single soft chalk line. Jaw slightly raised suggesting subtle defiance. Face has soft cross-hatching for shading depth, creating three-dimensional form. Faint chalk smudge marks near eyes suggesting controlled emotion, tear that didn't fall. Slight 3/4 angle toward viewer, shoulders squared in composed upright posture.
+
+Right side of frame dominated by chalk-drawn manila folder outline — rough rectangular shape with visible paper edges sketched inside, one corner lifted showing layered documents beneath. Folder drawn with white chalk, rough imperfect lines. Inside folder, one document line is highlighted with crimson chalk accent (#C84032) — rough underline or circled text drawing eye to critical evidence.
+
+Bottom right: small chalk-drawn phone screen outline, rectangular shape with rough sketched text lines visible inside. Strategic erasure around phone edges creating 'glow' effect suggesting screen illumination.
+
+Background: chalkboard green (#2E3D34) with highly visible authentic chalkboard texture throughout entire frame. Intentional chalk dust scattered in lower third of frame. Subtle smudge marks radiating from folder area suggesting months of methodical work. Strategic lighter area (erasure technique) behind woman's face to draw focus — achieved through lighter chalk density, not photographic blur.
+
+Text overlay bottom third, centered: "BUILDING MY CASE" in Permanent Marker style font, all caps, chalk white (#F5F5F0) with rough chalk texture on letters, slightly uneven baseline for hand-drawn authenticity.
+
+Lighting effect achieved through strategic erasure suggesting directional light from upper left, falling on face and folder. Focused, methodical mood like working under desk lamp. Hand-drawn imperfection mandatory: rough chalk lines, broken edges, authentic chalkboard medium feel. Mobile-readable at 150px width. Rule of thirds composition, eye-level perspective.
+
+---
+
+**NEGATIVE PROMPT:**
+
+blurry, low contrast, watermark, extra fingers, text artifacts, duplicate faces, distorted anatomy, photorealistic faces, clean vector lines, smooth digital feel, polished illustration, anime style, 3D render, color photography, no chalkboard texture, overly detailed background, cluttered composition, neon colors, pastel colors, bright primary colors, kindergarten aesthetic, stock illustration, Adobe Illustrator clean lines, gradient fills, drop shadows, lens flare, bokeh effect, depth of field blur, motion blur, chromatic aberration
+
+---
+
+**VARIANT V2 (Focal Weight ↑ on Evidence):**
+
+[Same as V1 baseline, with these modifications:]
+
+Manila folder outline increased to 40% of frame, positioned more prominently in center-right. Crimson chalk accent (#C84032) on document expanded — now includes rough circle around key phrase plus underline, making evidence artifact more visually dominant. Woman's face reduced slightly to 25% of frame but eyes remain highly detailed as emotional anchor. Phone screen outline moved to bottom center for better balance. Chalk dust concentration increased around folder area, suggesting intensive documentation work. Text overlay "BUILDING MY CASE" moved to bottom left to avoid competing with enlarged folder.
+
+[Use same negative prompt as V1]
+
+---
+
+**VARIANT V3 (Background Weight ↓, Face Emphasis ↑):**
+
+[Same as V1 baseline, with these modifications:]
+
+Background chalkboard texture reduced to subtle presence — less chalk dust, fewer smudge marks, cleaner board appearance to push focus entirely to subject and evidence. Woman's face increased to 35% of frame, eyes drawn even larger with more detailed cross-hatching and emotional depth. Smudge marks near eyes more pronounced. Manila folder outline simplified to 30% of frame with cleaner lines but maintaining rough chalk aesthetic. Phone screen removed entirely to reduce visual clutter. Crimson chalk accent (#C84032) remains on folder document but smaller, more precise. Strategic erasure behind face more pronounced, creating stronger spotlight effect. Text overlay "BUILDING MY CASE" remains bottom third centered but with increased chalk texture roughness for emphasis.
+
+[Use same negative prompt as V1]
