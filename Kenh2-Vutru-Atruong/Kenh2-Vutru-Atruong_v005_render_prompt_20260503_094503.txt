@@ -1,0 +1,27 @@
+**POSITIVE PROMPT (Midjourney v6.1):**
+
+```
+Cinematic 8K photorealistic scientific visualization of Jupiter interior cross-section, hemisphere cutaway view revealing dissolved core structure. Left half shows Jupiter's exterior cloud bands — Great Red Spot visible at mid-southern latitude, characteristic orange-brown belt/zone pattern in cream and Iron Rust tones. Right half reveals interior layers: outer molecular hydrogen atmosphere transitioning to metallic hydrogen mantle glowing in Solar Flare warm amber tones, then diffuse core gradient region occupying 30-50% radius showing heavy elements dispersed through 44,000 km diameter pressure-gradient zone — NOT compact solid sphere. Core gradient visualized as warm-to-cool transition from Solar Flare amber at mantle to Mission Cyan blue at diffuse boundary, density increasing toward center but NO sharp edge. Small Earth silhouette embedded at core boundary for scale comparison. Juno spacecraft silhouette in lower-right corner, three solar panel arrays extended, Telemetry Gray body with gold MLI accents, 8% frame. Background: Cosmic Indigo deep space with realistic low-density star field, faint cosmic dust haze, shallow DOF with 15% background defocus. Text overlay upper-third: "THE CORE DISSOLVED" in Eurostile Extended UPPERCASE, Stellar White with thin Cosmic Indigo stroke, soft shadow. Small "ARTIST'S IMPRESSION" label bottom-left corner in Telemetry Gray. Composition: center-focused, eye-level cutaway, Jupiter occupies 55% frame. Lighting: interior self-illuminated by pressure/heat gradient radiating outward, exterior clouds subtle sun-lit from upper-left. Color science: calibrated Hubble Heritage discipline, low-medium saturation, mission-archive aesthetic. Mood: quiet awe, mission-grade data visualization, calm authority. Aspect ratio 16:9, mobile readable at 150px. NASA SVS quality, Juno mission press imagery reference. NOT cartoon, NOT vector, NOT vibrant rainbow, NOT compact core sphere, NOT sensational --ar 16:9 --style raw --v 6.1 --s 250
+```
+
+**NEGATIVE PROMPT:**
+
+```
+--no blurry, low contrast, watermark, cartoon, vector illustration, oversaturated rainbow, red arrows, shocked faces, sensational overlays, compact solid core sphere, sharp core boundary, vibrant neon colors, flat black background, every pixel a star
+```
+
+---
+
+**VARIANT 2 — Core Gradient Emphasis ↑:**
+
+```
+Cinematic 8K photorealistic scientific visualization of Jupiter interior cross-section, hemisphere cutaway view revealing dissolved core structure, ZOOMED CLOSER on core gradient region (60% frame). Left edge shows 30% exterior cloud bands for planet identification. Right half reveals interior layers: metallic hydrogen mantle glowing in Solar Flare warm amber, then PROMINENT diffuse core gradient region showing heavy elements dispersed through pressure-gradient zone — warm-to-cool transition from Solar Flare amber to Mission Cyan blue MORE PRONOUNCED, density increasing toward center but NO sharp edge. Small Earth silhouette at core boundary. Juno spacecraft lower-right 8% frame. Background: Cosmic Indigo deep space, realistic star field, shallow DOF 15% defocus. Text overlay UPPER-RIGHT: "THE CORE DISSOLVED" Eurostile UPPERCASE, Stellar White, thin stroke, soft shadow. "ARTIST'S IMPRESSION" label bottom-left. Composition: core-gradient-focused, eye-level cutaway. Lighting: interior self-illuminated pressure/heat gradient. Color: calibrated low-medium saturation, mission-archive. Mood: quiet awe, data visualization. 16:9, mobile readable 150px. NASA SVS quality. NOT cartoon, NOT compact core sphere --ar 16:9 --style raw --v 6.1 --s 250 --no blurry, low contrast, watermark, cartoon, oversaturated rainbow, compact solid core sphere, sharp core boundary, vibrant neon, flat black background
+```
+
+---
+
+**VARIANT 3 — Mission Context Emphasis ↑:**
+
+```
+Cinematic 8K photorealistic scientific visualization of Jupiter interior cross-section with MISSION CONTEXT emphasis. Jupiter hemisphere cutaway 50% frame showing dissolved core gradient (Solar Flare to Mission Cyan transition, NO sharp boundary). Juno spacecraft LARGER 12% frame, mid-right position approaching Jupiter, three solar panel arrays extended, Telemetry Gray body with gold MLI. Faint trajectory arc from Juno to Jupiter polar region (actual orbit path). Left half: exterior cloud bands with Great Red Spot. Right half: interior layers — metallic hydrogen mantle, diffuse core gradient with Earth-scale comparison. Background: Cosmic Indigo deep space, realistic star field, shallow DOF. Text overlay upper-third left: "THE CORE DISSOLVED" Eurostile UPPERCASE, Stellar White, thin stroke, soft shadow. "ARTIST'S IMPRESSION" label bottom-left. Composition: mission-discovery narrative, eye-level cutaway. Lighting: interior self-illuminated gradient + exterior subtle sun upper-left. Color: calibrated low-medium saturation, mission-archive. Mood: quiet awe, Juno discovery. 16:9, mobile readable 150px. NASA SVS quality. NOT cartoon, NOT compact core --ar 16:9 --style raw --v 6.1 --s 250 --no blurry, low contrast, watermark, cartoon, oversaturated rainbow, compact solid core sphere, sharp core boundary, vibrant neon, flat black background
+```
