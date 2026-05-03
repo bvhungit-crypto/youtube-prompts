@@ -1,0 +1,29 @@
+**POSITIVE PROMPT (Midjourney v6.1):**
+
+```
+Cinematic 8K photorealistic rendering of TRAPPIST-1b exoplanet, tidally locked rocky world in 3/4 phase viewing geometry. Bare regolith surface Iron Rust (#9C5640) color with ancient cratered terrain, no atmospheric haze, stripped world. Sharp terminator line running diagonal upper-left to lower-right separating crimson-lit day side (right hemisphere) from frozen night side (left hemisphere) in deep shadow. Surface detail shows impact basins, ridge complexes, exposed bedrock — NASA mission-archive quality geological realism. Day side illuminated by TRAPPIST-1 ultracool dwarf star (M8V spectral class) from upper-left off-frame — dim crimson-orange light 2500K color temperature, weak Solar Flare (#E89A4F) accent on sunward limb. Night side deep shadow 50K, barely visible terrain in reflected starlight. TRAPPIST-1 star visible in upper-left corner 8% frame size — small crimson-orange sphere, dim red glow, faint stellar flare magnetic loop barely visible above limb (subtle coronal structure, not sensational). Background: deep interstellar void, Cosmic Indigo (#0D1B2A) gradient to near-black at edges. Realistic sparse star field very low density — 40 light-year distance red dwarf neighborhood, not Milky Way core. No nebula, no bright galactic band. Visually quiet deep space. Composition: TRAPPIST-1b occupies 50% frame positioned right-third, terminator diagonal, negative space upper-right for text overlay. Rule of thirds. Eye-level orbital vantage, slight low angle emphasizing planet scale against star. Atmospheric depth: shallow DOF — planet sharp, background stars 15% soft defocus. Subtle cosmic dust volumetric suggesting interstellar medium. Cinematic mission-grade aesthetic. Lighting: single-source stellar from upper-left, dim crimson-orange on day side, deep shadow on night side, no atmospheric scattering to soften terminator. Rim light faint on planet limb. Color science: calibrated Hubble Heritage discipline, low-medium saturation. Iron Rust regolith, Cosmic Indigo void, Solar Flare accent on sunward edge. NOT vibrant, NOT oversaturated, NOT Earth-like. Mood: quiet revelation. The absence of atmosphere IS the discovery. Bare rock under dim crimson light. Mission-grade data presentation. Calm authority. Aspect ratio 16:9, mobile readable at 150px — planet silhouette and terminator must remain identifiable. NOT cartoon, NOT vector, NOT bright atmosphere, NOT glowing haze, NOT Earth-like clouds, NOT blue oceans, NOT sensational, NOT red arrows, NOT shocked faces --ar 16:9 --style raw --v 6.1 --s 250 --no blurry, low contrast, watermark, cartoon, vibrant rainbow, oversaturated, red arrows, shocked faces, bright atmosphere, glowing haze, Earth-like clouds, blue oceans
+```
+
+**NEGATIVE PROMPT:**
+
+```
+--no blurry, low contrast, watermark, cartoon, vibrant rainbow, oversaturated, red arrows, shocked faces, bright atmosphere, glowing haze, Earth-like clouds, blue oceans, neon glow, hot pink, electric purple, kindergarten palette, extra fingers, text artifacts, duplicate faces, distorted anatomy, sensational overlays
+```
+
+---
+
+**VARIANT 2 (focal weight ↑):**
+
+```
+[Same positive prompt as V1, add before --ar:]
+Sharp terminator line (terminator:1.4), no atmospheric blur (no atmosphere:1.3), bare regolith surface detail (surface detail:1.2) --ar 16:9 --style raw --v 6.1 --s 250 --no blurry, low contrast, watermark, cartoon, vibrant rainbow, oversaturated, red arrows, shocked faces, bright atmosphere, glowing haze, Earth-like clouds, blue oceans
+```
+
+---
+
+**VARIANT 3 (background weight ↓):**
+
+```
+[Same positive prompt as V1, but replace "Background:" section with:]
+Background: deeper interstellar void, Cosmic Indigo (#0D1B2A) to pure black gradient at edges (background:0.7). Star field even sparser (star field:0.6). Planet contrast increased against darker void. [Continue rest of prompt] --ar 16:9 --style raw --v 6.1 --s 250 --no blurry, low contrast, watermark, cartoon, vibrant rainbow, oversaturated, red arrows, shocked faces, bright atmosphere, glowing haze, Earth-like clouds, blue oceans
+```
